@@ -1,7 +1,0 @@
-vless://e7a7b540-86cf-4376-b212-3e1d2f6d7f2f@172.66.40.170:80?path=/vless&security=none&encryption=none&host=aka.vivie.me&type=ws#17july26UMOBILE
-vless://e7a7b540-86cf-4376-b212-3e1d2f6d7f2f@104.20.44.247:80?path=/vless&security=none&encryption=none&host=aka.vivie.me&type=ws#17july26DIGI
-vless://e7a7b540-86cf-4376-b212-3e1d2f6d7f2f@104.17.148.22:80?path=/vless&security=none&encryption=none&host=app.speedtest.net.aka.vivie.me&type=ws#17july26YES
-vless://e7a7b540-86cf-4376-b212-3e1d2f6d7f2f@104.18.37.18:80?path=/vless&security=none&encryption=none&host=app.speedtest.net.aka.vivie.me&type=ws#17july26UNIFI
-vless://e7a7b540-86cf-4376-b212-3e1d2f6d7f2f@sub.viu.com.aka.vivie.me:80?path=/vless&security=none&encryption=none&host=aka.vivie.me&type=ws#17july26MAXISVIU
-vless://e7a7b540-86cf-4376-b212-3e1d2f6d7f2f@139.162.53.166:80?path=/vless&security=none&encryption=none&host=file-pmco.pubgmobile.com.aka.vivie.me&type=ws#17july26PUBG
-vless://e7a7b540-86cf-4376-b212-3e1d2f6d7f2f@aka.vivie.me:80?path=/vless&security=none&encryption=none&host=aka.vivie.me&type=ws#17july26
