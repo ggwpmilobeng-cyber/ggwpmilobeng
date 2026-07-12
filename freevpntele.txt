@@ -1,0 +1,8 @@
+vless://7ed06705-afae-4b70-b1ff-bbd952925555@104.20.44.247:80?path=GET%20%2Fcdn-cgi%2Ftrace%20HTTP%2F1.1%5Bcrlf%5DHost%3A%20u.com.my%5Bcrlf%5D%5Bcrlf%5D%5Bsplit%5DSTRX%20%2Fvless%20HTTP%2F1.1%5Bcrlf%5DHost%3A%20%5Bhost%5D%5Bcrlf%5DUpgrade%3A%20websocket%5Bcrlf%5DSec-WebSocket-Key%3A%20MRSBXBOSS%3D%3D%5Bcrlf%5DConnection%3A%20Upgrade%5Bcrlf%5DSec-WebSocket-Version%3A%2013%5Bcrlf%5D%5Bcrlf%5D&security=none&encryption=none&host=strx-payload%3A%2F%2Fsg.trickerstarpro.my.id%2Fvless&type=ws#Umostrx
+vless://7ed06705-afae-4b70-b1ff-bbd952925555@172.66.40.170:80?security=none&encryption=none&type=ws&headerType=none&path=/&host=cdn.opensignal.com.sg.trickerstarpro.my.id#UmoUltraexp
+vless://7ed06705-afae-4b70-b1ff-bbd952925555@104.20.44.247:80?security=none&encryption=none&type=ws&headerType=none&path=/&host=sg.trickerstarpro.my.id#Digi
+vless://7ed06705-afae-4b70-b1ff-bbd952925555@104.20.44.247:80?security=none&encryption=none&type=ws&headerType=none&path=&host=sg.trickerstarpro.my.id#YEs
+vless://7ed06705-afae-4b70-b1ff-bbd952925555@nga.celcomdigi.com.sg.trickerstarpro.my.id:80?security=none&encryption=none&type=ws&headerType=none&path=/&host=nga.celcomdigi.com#CELCOM%20SEDUT%20BASIC
+vless://7ed06705-afae-4b70-b1ff-bbd952925555@rg.trickerstarpro.my.id:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&type=xhttp#Celcom%200Basic
+vless://7ed06705-afae-4b70-b1ff-bbd952925555@sub.viu.com.sg.trickerstarpro.my.id:80?security=none&encryption=none&type=ws#maxisVIU
+vless://7ed06705-afae-4b70-b1ff-bbd952925555@cdn.opensignal.com:8080?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=support.opensignal.com.sg.trickerstarpro.my.id&type=xhttp#maxis%20freeze
