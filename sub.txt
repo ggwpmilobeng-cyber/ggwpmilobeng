@@ -1,0 +1,3 @@
+vless://5faca5aa-b044-4a5b-bd1d-80928c676846@104.20.44.247:80?path=/&security=none&encryption=none&host=ts1.gg2.my.id&type=ws#TS1-DiGiWS01
+vless://5faca5aa-b044-4a5b-bd1d-80928c676846@104.20.44.247:80?path=/&security=none&encryption=none&host=app.speedtest.net.ts1.gg2.my.id&type=ws#TS1-YeSWS01
+vless://5faca5aa-b044-4a5b-bd1d-80928c676846@172.66.40.170:80?path=/&security=none&encryption=none&host=ts1.gg2.my.id&type=ws#TS1-UMobileWS01
