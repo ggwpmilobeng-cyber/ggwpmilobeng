@@ -1,0 +1,7 @@
+vless://ID@172.66.40.170:80?path=/vless&security=none&encryption=none&host=aka.vivie.me&type=ws#17july26UMOBILE
+vless://ID@104.20.44.247:80?path=/vless&security=none&encryption=none&host=aka.vivie.me&type=ws#17july26DIGI
+vless://ID@104.17.148.22:80?path=/vless&security=none&encryption=none&host=app.speedtest.net.aka.vivie.me&type=ws#17july26YES
+vless://ID@104.18.37.18:80?path=/vless&security=none&encryption=none&host=app.speedtest.net.aka.vivie.me&type=ws#17july26UNIFI
+vless://ID@sub.viu.com.aka.vivie.me:80?path=/vless&security=none&encryption=none&host=aka.vivie.me&type=ws#17july26MAXISVIU
+vless://ID@139.162.53.166:80?path=/vless&security=none&encryption=none&host=file-pmco.pubgmobile.com.aka.vivie.me&type=ws#17july26PUBG
+vless://ID@aka.vivie.me:80?path=/vless&security=none&encryption=none&host=aka.vivie.me&type=ws#17july26

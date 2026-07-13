@@ -1,0 +1,8 @@
+vless://ID@104.17.148.22:80?path=/vless&encryption=none&host=speedtest.net.dowan.freedata.qzz.io&type=ws#TESTCONTENTMY-PINK
+vless://ID@172.66.169.187:80?path=/vless&security=none&encryption=none&host=dowan.freedata.qzz.io&type=ws#TESTCONTENTMY-5IN1
+vless://ID@104.20.44.247:80?path=/vless&encryption=none&host=dowan.freedata.qzz.io&type=ws#TESTCONTENTMY-KUNINGBASIC
+vless://ID@codecademy.com:80?path=/vless&encryption=none&host=dowan.freedata.qzz.io&type=ws#TESTCONTENTMY-KUNING6
+vless://ID@162.159.134.61:80?path=/vless&encryption=none&host=dowan.freedata.qzz.io&type=ws#TESTCONTENTMY-KUNING3
+vless://ID@biorecovery.com:80?path=/vless&security=none&encryption=none&host=dowan.freedata.qzz.io&type=ws#TESTCONTENTMY-OREN
+vless://ID@172.66.40.170:80?encryption=none&flow=none&type=ws&host=dowan.freedata.qzz.io&headerType=none&path=/vless&security=none#TESTCONTENTMY-OREN2
+vless://ID@help.viu.com.dowan.freedata.qzz.io:80?path=/vless&encryption=none&type=ws&host=help.viu.com#TESTCONTENTMY-MERAHVIU

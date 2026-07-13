@@ -1,0 +1,16 @@
+vless://LETAK-IDVPN@172.66.169.187:80?path=/&security=none&encryption=none&host=sg1.lkvpn.net&type=ws#SG1-DGWS01
+vless://LETAK-IDVPN@104.20.44.247:80?path=/&security=none&encryption=none&host=sg1.lkvpn.net&type=ws#SG1-DGWS02
+vless://LETAK-IDVPN@104.17.147.22:80?path=/&security=none&encryption=none&host=cdn.speedtest.net.sg1.lkvpn.net&type=ws#SG1-YSWS01
+vless://LETAK-IDVPN@104.20.44.247:80?path=/&security=none&encryption=none&host=cdn.speedtest.net.sg1.lkvpn.net&type=ws#SG1-YSWS02
+vless://LETAK-IDVPN@172.66.40.170:80?path=/&security=none&encryption=none&host=sg1.lkvpn.net&type=ws#SG1-UMWS01
+vless://LETAK-IDVPN@172.66.43.86:80?path=/&security=none&encryption=none&host=sg1.lkvpn.net&type=ws#SG1-UMWS02
+vless://LETAK-IDVPN@104.16.160.145:80?path=/&security=none&encryption=none&host=sg1.lkvpn.net&type=ws#SG1-CMGOWS01
+vless://LETAK-IDVPN@104.17.111.223:80?path=/&security=none&encryption=none&host=sg1.lkvpn.net&type=ws#SG1-CMGOWS02
+vless://LETAK-IDVPN@sub.viu.com.sg1.lkvpn.net:80?path=/&security=none&encryption=none&host=cfcdn.viu.com&type=ws#SG1-VIUWS01
+vless://LETAK-IDVPN@siteintercept.qualtrics.com:80?path=/&security=none&encryption=none&host=cfcdn.viu.com.sg1.lkvpn.net&type=ws#SG1-VIUWS02
+vless://LETAK-IDVPN@172.66.40.170:8880?mode=auto&path=/xhttp&security=none&encryption=none&host=insights.opensignal.com.sg1.lkvpn.net&type=xhttp#SG1-MXBXHT01
+vless://LETAK-IDVPN@172.66.43.86:8880?mode=auto&path=/xhttp&security=none&encryption=none&host=insights.opensignal.com.sg1.lkvpn.net&type=xhttp#SG1-MXBXHT02
+vless://LETAK-IDVPN@104.17.147.22:80?path=/&security=none&encryption=none&host=cdn.speedtest.net.sg1.lkvpn.net&type=ws#SG1-UNBWS01
+vless://LETAK-IDVPN@104.18.6.178:80?path=/&security=none&encryption=none&host=app.speedtest.net.sg1.lkvpn.net&type=ws#SG1-UNBWS02
+vless://LETAK-IDVPN@nga.celcomdigi.com.sg1.lkvpn.net:80?path=/&security=none&encryption=none&host=nga.celcomdigi.com&type=ws#SG1-CLBWS01
+vless://LETAK-IDVPN@www.speedtest.net:80?path=/&security=none&encryption=none&host=cdn.speedtest.net.sg1.lkvpn.net&type=ws#SG1-CLBWS02
