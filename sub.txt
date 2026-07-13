@@ -1,9 +1,0 @@
-vless://961a12cd-aa82-49aa-8b89-d981607d0d3c@104.20.44.247:80?path=/&security=none&encryption=none&host=ts1.dvhfree.net&type=ws#TS1-DGALL
-vless://961a12cd-aa82-49aa-8b89-d981607d0d3c@104.20.44.247:80?path=/&security=none&encryption=none&host=speedtest.net.ts1.dvhfree.net&type=ws#TS1-YESALL
-vless://961a12cd-aa82-49aa-8b89-d981607d0d3c@172.66.40.170:80?path=/&security=none&encryption=none&host=ts1.dvhfree.net&type=ws#TS1-UMOALL
-vless://961a12cd-aa82-49aa-8b89-d981607d0d3c@app.speedtest.net:80?path=/&security=none&encryption=none&host=speedtest.net.ts1.dvhfree.net&type=ws#TS1-UNIFREEZ
-vless://961a12cd-aa82-49aa-8b89-d981607d0d3c@insights.opensignal.com:8880?mode=auto&path=/xhttp&security=none&encryption=none&host=cdn.opensignal.com.ts1.dvhfree.net&type=xhttp#TS1-MAXFREEZ
-vless://961a12cd-aa82-49aa-8b89-d981607d0d3c@siteintercept.qualtrics.com:80?path=/&security=none&encryption=none&host=cfcdn.viu.com.ts1.dvhfree.net&type=ws#TS1-MAXVIU
-vless://961a12cd-aa82-49aa-8b89-d981607d0d3c@104.16.160.145:80?path=/&security=none&encryption=none&host=cfcdn.viu.com.ts1.dvhfree.net&type=ws#TS1-MAXCMGO
-vless://961a12cd-aa82-49aa-8b89-d981607d0d3c@nga.celcomdigi.com.ts1.dvhfree.net:80?path=/&security=none&encryption=none&host=nga.celcomdigi.com&type=ws#TS1-CELB1
-vless://961a12cd-aa82-49aa-8b89-d981607d0d3c@biruts1.dvhfree.net:80?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#TS1-CEL0B1
