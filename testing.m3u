@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1,TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-#EXTINF:-1,TV3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
